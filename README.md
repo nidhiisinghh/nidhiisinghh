@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nidhi Singh – Still Learning, Always Building</h1>
 <h3 align="center">CSE undergrad from India navigating the realms of code, creativity, and caffeine. Currently discovering what makes great software feel great.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhiisinghh" alt="nidhiisinghh" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@nidhiisinghh07" target="blank"><img src="https://img.shields.io/twitter/follow/@nidhiisinghh07?logo=twitter&style=for-the-badge" alt="@nidhiisinghh07" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development & MERN Stack**
