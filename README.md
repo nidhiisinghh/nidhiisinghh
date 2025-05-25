@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nidhi Singh – Still Learning, Always Building</h1>
+<h1 align="center">Hi 👋, I'm Nidhi Singh – Still Learning, Always Building 🚀</h1>
 <h3 align="center">CSE undergrad passionate about full-stack and Android development. Skilled in the MERN stack, currently exploring Kotlin and Android Studio to build seamless cross-platform experiences. Always learning, always building—one line of code at a time.</h3>
 
 - 🌱 I’m currently learning **Android Development & MERN Stack**
@@ -7,10 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@nidhiisinghh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nidhiisinghh07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/nidhi-singh-587301327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nidhi-singh-587301327" height="30" width="40" /></a>
-<a href="https://instagram.com/spamfromnidhii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spamfromnidhii" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nidhiisinghh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nidhiisinghh" height="30" width="40" /></a>
 <a href="https://discord.gg/sXVVceVJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sXVVceVJ" height="30" width="40" /></a>
 </p>
 
