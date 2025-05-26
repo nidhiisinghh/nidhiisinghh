@@ -75,14 +75,11 @@ CSE undergrad passionate about full-stack and Android development. Skilled in th
 ---
 
 <h3 align="left">GitHub Stats:</h3>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhiisinghh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhiisinghh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhiisinghh&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhiisinghh" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhiisinghh&theme=tokyonight" alt="GitHub Streak" />
 </p>
