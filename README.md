@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nidhi Singh – Still Learning, Always Building! 🚀</h1>
 
 <h3 align="center">
-  CSE undergrad driven by a love for full-stack and Android development. Skilled in the MERN stack, now diving into Kotlin and Android Studio to build seamless, impactful apps. Enthusiastic about open source — it's a space to learn, grow and collaborate with developers worldwide. Always building, always exploring — one line of code at a time.
+  CSE undergrad driven by a love for full-stack and Android development. <br>
+  Skilled in the MERN stack, now diving into Kotlin and Android Studio to build seamless, impactful apps. <br>
+  Enthusiastic about open source — it's a space to learn, grow and collaborate with developers worldwide. Always building, always exploring — one line of code at a time.
 </h3>
 
 ---
