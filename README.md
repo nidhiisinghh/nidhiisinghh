@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nidhi Singh – Still Learning, Always Building! 🚀</h1>
 
-<h5 align="center">
+<h4 align="center">
   A CSE student passionate about full-stack & exploring Android development, with a strong foundation in the MERN stack. 
   Currently learning Python with a keen interest in Artificial Intelligence and Machine Learning — exploring algorithms, models, and their real-world applications.
   Curious about open source and eager to learn, collaborate, and grow through community-driven projects. <br>
   Always exploring, always building — one line of code at a time.
-</h5>
+</h4>
 
 ---
 
