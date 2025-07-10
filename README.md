@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nidhi Singh – Still Learning, Always Building! 🚀</h1>
 
 <p align="center">
-  A CSE student passionate about full-stack development & exploring Android with Kotlin. Wiht a strong foundation in the MERN stack, I'm currently learning Python, with a growing interest in Artificial Intelligence and Machine Learning — trying to understand algorithms, models and their practical uses.
+  A CSE student passionate about full-stack development & exploring Android with Kotlin. With a strong foundation in the MERN stack, I'm currently learning Python, with a growing interest in Artificial Intelligence and Machine Learning — trying to understand algorithms, models and their practical uses.
 Enthusiastic about open source: a space to learn, grow and collaborate with developers worldwide. <br>
 Still learning, still exploring — one line of code at a time.
 </p>
