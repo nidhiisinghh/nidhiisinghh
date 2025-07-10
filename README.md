@@ -9,7 +9,6 @@
 
 ---
 
-- 🌱 I’m currently learning **Android Development** & **MERN Stack**
 - 📫 How to reach me: **nidhiisinghh2007@gmail.com**
 
 ---
