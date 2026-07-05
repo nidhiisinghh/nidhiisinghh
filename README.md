@@ -5,7 +5,7 @@
   <h3>🚀 Full-Stack AI Developer </h3>
   
   <p>
-    Computer Science (AI & ML) student passionate about architecting scalable systems and building autonomous AI agent workflows.
+    Computer Science (AI & ML) student passionate about building scalable AI systems, full-stack applications & agentic AI workflows.
   </p>
 
   <!-- Dynamic Badges for Tech Stack -->
@@ -21,8 +21,8 @@
 
   <!-- Core Areas of Interest in clean grid/bullets -->
   <p>
-    <b>🧠 Core Focus:</b> AI Agent Consensus • Retrieval-Augmented Generation (RAG) • LangGraph Orchestration <br>
-    <b>🌐 Systems:</b> Cloud-Native Architecture • API Gateway Optimization • Distributed Databases
+    <b>🧠 Core Focus:</b> Multi-Agent Systems • Retrieval-Augmented Generation (RAG) • LangGraph Orchestration <br>
+    <b>🌐 Interests: System Design • Cloud Architecture • API Integrations • Distributed Systems
   </p>
 
   <p><i>💡 Always learning. Always building.</i></p>
