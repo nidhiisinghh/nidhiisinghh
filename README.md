@@ -1,14 +1,37 @@
-<h1 align="center">Hi 👋, I'm Nidhi Singh – Still Learning, Always Building! 🚀</h1>
+<div align="center">
+  
+  <!-- Heading with waving hand animation look -->
+  <h1>Hi 👋, I'm Nidhi Singh</h1>
+  <h3>🚀 Full-Stack AI Engineer & Distributed Systems Developer</h3>
+  
+  <p>
+    Computer Science (AI & ML) student passionate about architecting scalable systems and building autonomous AI agent workflows.
+  </p>
 
-<p align="center">
-  A CSE student passionate about full-stack development. With a strong foundation in the MERN stack, I'm currently learning Machine Learning, trying to understand algorithms, models and their practical uses.
-Enthusiastic about open source: a space to learn, grow and collaborate with developers worldwide. <br>
-Still learning, still exploring — one line of code at a time.
-</p>
+  <!-- Dynamic Badges for Tech Stack -->
+  <p>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </p>
+
+  <hr width="50%" />
+
+  <!-- Core Areas of Interest in clean grid/bullets -->
+  <p>
+    <b>🧠 Core Focus:</b> AI Agent Consensus • Retrieval-Augmented Generation (RAG) • LangGraph Orchestration <br>
+    <b>🌐 Systems:</b> Cloud-Native Architecture • API Gateway Optimization • Distributed Databases
+  </p>
+
+  <p><i>💡 Always learning. Always building.</i></p>
+  
+</div>
 
 ---
 
-- 📫 How to reach me: **nidhiisinghh2007@gmail.com**
+- 📬 **Open to collaborations and opportunities:** **nidhiisinghh2007@gmail.com**
 
 ---
 
