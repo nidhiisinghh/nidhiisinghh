@@ -2,7 +2,7 @@
   
   <!-- Heading with waving hand animation look -->
   <h1>Hi 👋, I'm Nidhi Singh</h1>
-  <h3>🚀 Full-Stack AI Engineer & Distributed Systems Developer</h3>
+  <h3>🚀 Full-Stack AI Developer </h3>
   
   <p>
     Computer Science (AI & ML) student passionate about architecting scalable systems and building autonomous AI agent workflows.
